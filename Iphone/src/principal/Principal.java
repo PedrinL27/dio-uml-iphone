@@ -1,4 +1,4 @@
-package Pricipal;
+package principal;
 import celular.Iphone;
 
 public class Principal {
